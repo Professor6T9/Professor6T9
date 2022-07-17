@@ -12,5 +12,4 @@
 🔴[Facebook Page](https://www.facebook.com/mr.x3non
 
 **Visitor Github @mronion420**
-![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=red)
->
+![PROFILE VIEWERS](https://gpvc.arturio.dev/mronion420) 
