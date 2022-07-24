@@ -14,3 +14,7 @@
 **Visitor Github @mronion420**
 
 ![PROFILE VIEWERS](https://gpvc.arturio.dev/mronion420) 
+
+**🔴Badges**
+
+<a href="https://www.credly.com/badges/94f71963-c3a0-4baf-87d3-f34f5bda16db/facebook_messenger"><img src="https://i.ibb.co/4YNdbJS/python-for-data-science.png" alt="python-for-data-science" border="0" hight="100" width="100"></a>
